@@ -14,7 +14,9 @@ Lijst van ontworpen functies:
 - add_data_to_column
 - add_multiple_data_to_column
 Voor dit programma is geen GUI ontwikkeld.  
-Om de MySQL-database te laten werken, gebruiken we de modules ‘Apache’ en ‘MySQL’ van het programma XAMPP.  
+Om de MySQL-database te laten werken, gebruiken we de modules ‘Apache’ en ‘MySQL’ van het programma XAMPP.
+
+In deze repository zijn ook csv-bestanden opgenomen waarmee het programma getest kan worden. 
 
 # Programmeertaal + versie:
 Python
